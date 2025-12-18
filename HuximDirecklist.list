@@ -7,9 +7,9 @@ DOMAIN-SUFFIX,huxim.ml
 DOMAIN-SUFFIX,synology.com
 #低端影视
 DOMAIN-SUFFIX,ddrk.me
-IP-CIDR,192.200.97.10/32,resolve
+#IP-CIDR,192.200.97.10/32,resolve
 #EVE
-IP-CIDR,13.225.155.44/32,resolve
+#IP-CIDR,13.225.155.44/32,resolve
 #epic
 DOMAIN-SUFFIX,epicgames.com
 DOMAIN-SUFFIX,unrealengine.com
