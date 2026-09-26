@@ -27,6 +27,8 @@ DOMAIN-SUFFIX,cdn-ws.content.steamchina.com
 DOMAIN-SUFFIX,cdn-qc.content.steamchina.com
 DOMAIN-SUFFIX,cdn-ali.content.steamchina.com
 DOMAIN-SUFFIX,lancache.steamcontent.com
+DOMAIN-SUFFIX,steamcdn-a.akamaihd.net
+DOMAIN-SUFFIX,cm.steampowered.com
 #landian
 DOMAIN-SUFFIX,ourl.co
 DOMAIN-SUFFIX,lancdn.com
